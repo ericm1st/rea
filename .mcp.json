@@ -5,6 +5,9 @@
       "args": [
         "-u", "CLAUDE_CODE_MESSAGING_TOKEN",
         "-u", "CLAUDE_SESSION_INGRESS_TOKEN_FILE",
+        "-u", "AWS_ACCESS_KEY_ID",
+        "-u", "AWS_SECRET_ACCESS_KEY",
+        "-u", "CLOUDSDK_AUTH_ACCESS_TOKEN",
         "npx", "-y", "rea-agents@6.9.0", "mcp"
       ],
       "env": {

@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "deny": [
+      "mcp__rea__start_build_computer",
+      "mcp__rea__act_on_build_computer",
+      "mcp__rea__start_build_capture",
+      "mcp__rea__mark_build_checkpoint",
+      "mcp__rea__stop_build_capture",
+      "mcp__rea__export_build_environment",
+      "mcp__rea__check_build_task",
+      "mcp__rea__record_build_consent",
+      "mcp__rea__close_build_computer",
+      "mcp__rea__measure_build_task",
+      "mcp__rea__trace_web_source_location",
+      "mcp__rea__trace_web_module_imports",
+      "mcp__rea__recover_javascript_sources"
+    ]
+  }
+}

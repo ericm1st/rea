@@ -13,7 +13,12 @@
       "mcp__rea__measure_build_task",
       "mcp__rea__trace_web_source_location",
       "mcp__rea__trace_web_module_imports",
-      "mcp__rea__recover_javascript_sources"
+      "mcp__rea__recover_javascript_sources",
+      "mcp__rea__capture_electron_scenario",
+      "mcp__rea__inspect_electron_page",
+      "mcp__rea__list_electron_targets",
+      "mcp__rea__inspect_electron_fuses",
+      "mcp__rea__reconcile_javascript_runtime"
     ]
   }
 }

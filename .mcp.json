@@ -12,7 +12,7 @@
       ],
       "env": {
         "REA_ANALYSIS_PROVIDER": "auto",
-        "REA_MCP_TOOL_FAMILIES": "application"
+        "REA_MCP_TOOL_FAMILIES": "application,electron"
       }
     }
   }

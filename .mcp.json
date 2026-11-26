@@ -8,7 +8,7 @@
         "-u", "AWS_ACCESS_KEY_ID",
         "-u", "AWS_SECRET_ACCESS_KEY",
         "-u", "CLOUDSDK_AUTH_ACCESS_TOKEN",
-        "npx", "-y", "rea-agents@6.9.0", "mcp"
+        "rea-agents", "mcp"
       ],
       "env": {
         "REA_ANALYSIS_PROVIDER": "auto",
